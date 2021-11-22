@@ -6,9 +6,9 @@ module.exports = {
     },
 
     channels: {
-      generator: '', //ID of the generator channel
-      nitro: '', //ID of the nitro generator channel
-      twitch: '' //ID of the Twitch follows channel
+      generator: '912227564980936728', //ID of the generator channel
+      nitro: '912227564980936728', //ID of the nitro generator channel
+      twitch: '912227564980936728' //ID of the Twitch follows channel
     },
 
     links: {
